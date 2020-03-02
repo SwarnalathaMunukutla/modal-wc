@@ -1,9 +1,14 @@
 {
   "name": "modal-vanilla-js-wc",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/SwarnalathaMunukutla/modal-wc.git"
   },
+  "unpkg": "public/bundle.js",
+  "files": [
+    "public/"
+  ],
   "devDependencies": {
     "@babel/core": "^7.8.6",
     "@babel/preset-env": "^7.8.6",

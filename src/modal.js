@@ -1,13 +1,3 @@
-// var span = document.querySelector('#time-now');
-
-// const sayHello = (message) => {
-//    span.innerHTML = message;
-// }
-
-// export default sayHello;
- 
-
-
 export default class ModalWC extends HTMLElement {
 
   constructor() {
